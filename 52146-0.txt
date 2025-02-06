@@ -1,126 +1,125 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-            "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>The Juvenile Bible</title></head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 52146 ***</div>
+*** START OF THE PROJECT GUTENBERG EBOOK 52146 ***
 
-<p><TABLE BORDER=1><TR><TD ALIGN="center">Transcriber's Note:</TD></TR>
-<TR><TD><UL><LI>The original text makes heavy use of the "long s" character. These have been replaced with the ASCII "s".</LI>
-<LI>Capitalization of words within sentences is reproduced faithfully from the original.</LI>
-<LI>This text makes heavy use of obsolete and archaic spellings. The original spellings have been preserved.</LI></UL>
-</TD></TR></TABLE>
+Transcriber's Note:
+    The original text makes heavy use of the "long s" character. These
+    have been replaced with the ASCII "s".
 
-<p><TABLE><TR><TD ALIGN="center"><IMG SRC="images/cover.png" ALT="The GOOD BOY getting off the JUVENILE BIBLE by Heart."><BR>
-The GOOD BOY getting off the JUVENILE BIBLE by Heart.<BR>
-<HR>
-<p><i>Train up a Child in the Way he should go, and when he is old he will
-not depart from it, Prov. xxii. 6.</i></p></TD></TR></TABLE>
+    Capitalization of words within sentences is reproduced faithfully
+    from the original.
 
-<p><TABLE><TR><TD ALIGN="center"><H1>The<br>
-<i>JUVENILE BIBLE:</i><br>
-BEING<br>
-A BRIEF CONCORDANCE<br>
-OF THE<br>
-<i>HOLY SCRIPTURES</i>,<br>
-IN VERSE.</H1>
+    This text makes heavy use of obsolete and archaic spellings. The
+    original spellings have been preserved.
 
-<p><H2>CONTAINING<br>
-A Summary of all the CHAPTERS in the Books of the<br>
-<i>OLD and NEW TESTAMENT,</i><br>
-From GENESIS to the REVELATION<br>
-<i>Alphabetically Arranged,</i><br>
-AND<br>
-ADMIRABLY ADAPTED<br>
-TO THE<br>
-COMPREHENSION AND RETENTION OF<br>
-YOUNG READERS.</H2>
 
-<HR>
-<p><i>Search the Scriptures, and let the Word of Christ dwell
-in you richly in all Wisdom, John v.39. Col.iii.16</i></p>
-<HR>
 
-<p><i>LONDON:</i><br>
+[Illustration: The GOOD BOY getting off the JUVENILE BIBLE by Heart.]
 
-PRINTED AND PUBLISHED BY M. ALLEN,<br>
+_Train up a Child in the Way he should go, and when he is old he will
+not depart from it, Prov. xxii. 6._
 
-NO. 15, Paternoster-Row;<br>
 
-And Sold by all other Booksellers in the United Kingdom.<br>
 
+The
+JUVENILE BIBLE:
+BEING
+A BRIEF CONCORDANCE
+OF THE
+_HOLY SCRIPTURES_,
+IN VERSE.
+
+CONTAINING
+A Summary of all the CHAPTERS in the Books of the
+_OLD and NEW TESTAMENT,_
+From GENESIS to the REVELATION
+_Alphabetically Arranged,_
+AND
+ADMIRABLY ADAPTED
+TO THE
+COMPREHENSION AND RETENTION OF
+YOUNG READERS.
+
+_Search the Scriptures, and let the Word of Christ dwell
+in you richly in all Wisdom, John v.39. Col.iii.16_
+
+LONDON:
+PRINTED AND PUBLISHED BY M. ALLEN,
+NO. 15, Paternoster-Row;
+And Sold by all other Booksellers in the United Kingdom.
 [Entered at Stationers-Hall]
-</TD></TR></TABLE>
 
-<p><TABLE BORDER=1 CELLSPACING=0 CELLPADDING=5><TR><TD COLSPAN=6 ALIGN="center">
-The<br>
-NAMES AND ORDER<br>
-OF ALL THE BOOKS OF THE<br>
-<i>OLD &amp; NEW TESTAMENT,</i><br>
-WITH THE<br>
-NUMBER OF CHAPTERS.</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Genesis">Genesis</A> hath</TD><TD ALIGN="right" style="border-left:none">50</TD><TD style="border-right:none"><A HREF="#II.Chronicles">II. Chronicles</A></TD><TD ALIGN="right" style="border-left:none">36</TD><TD style="border-right:none"><A HREF="#Daniel">Daniel</A></TD><TD ALIGN="right" style="border-left:none">12</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Exodus">Exodus</A></TD><TD ALIGN="right" style="border-left:none">40</TD><TD style="border-right:none"><A HREF="#Ezra">Ezra</A></TD><TD ALIGN="right" style="border-left:none">10</TD><TD style="border-right:none"><A HREF="#Hosea">Hosea</A></TD><TD ALIGN="right" style="border-left:none">14</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Leviticus">Leviticus</A></TD><TD ALIGN="right" style="border-left:none">27</TD><TD style="border-right:none"><A HREF="#Nehemiah">Nehemiah</A></TD><TD ALIGN="right" style="border-left:none">13</TD><TD style="border-right:none"><A HREF="#Joel">Joel</A></TD><TD ALIGN="right" style="border-left:none">3</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Numbers">Numbers</A></TD><TD ALIGN="right" style="border-left:none">36</TD><TD style="border-right:none"><A HREF="#Esther">Esther</A></TD><TD ALIGN="right" style="border-left:none">10</TD><TD style="border-right:none"><A HREF="#Amos">Amos</A></TD><TD ALIGN="right" style="border-left:none">9</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Deuteronomy">Deuteronomy</A></TD><TD ALIGN="right" style="border-left:none">34</TD><TD style="border-right:none"><A HREF="#Job">Job</A></TD><TD ALIGN="right" style="border-left:none">42</TD><TD style="border-right:none"><A HREF="#Obediah">Obediah</A></TD><TD ALIGN="right" style="border-left:none">1</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Joshua">Joshua</A></TD><TD ALIGN="right" style="border-left:none">24</TD><TD style="border-right:none"><A HREF="#Psalms">Psalms</A></TD><TD ALIGN="right" style="border-left:none">150</TD><TD style="border-right:none"><A HREF="#Jonah">Jonah</A></TD><TD ALIGN="right" style="border-left:none">4</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Judges">Judges</A></TD><TD ALIGN="right" style="border-left:none">21</TD><TD style="border-right:none"><A HREF="#Proverbs">Proverbs</A></TD><TD ALIGN="right" style="border-left:none">31</TD><TD style="border-right:none"><A HREF="#Micah">Micah</A></TD><TD ALIGN="right" style="border-left:none">7</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Ruth">Ruth</A></TD><TD ALIGN="right" style="border-left:none">4</TD><TD style="border-right:none"><A HREF="#Ecclesiastes">Ecclesiastes</A></TD><TD ALIGN="right" style="border-left:none">12</TD><TD style="border-right:none"><A HREF="#Nahum">Nahum</A></TD><TD ALIGN="right" style="border-left:none">3</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#I.Samuel">I. Samuel</A></TD><TD ALIGN="right" style="border-left:none">31</TD><TD style="border-right:none"><A HREF="#SolomonsSong">Solomon's Song</A></TD><TD ALIGN="right" style="border-left:none">8</TD><TD style="border-right:none"><A HREF="#Habakkuk">Habakkuk</A></TD><TD ALIGN="right" style="border-left:none">3</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#II.Samuel">II. Samuel</A></TD><TD ALIGN="right" style="border-left:none">24</TD><TD style="border-right:none"><A HREF="#Isaiah">Isaiah</A></TD><TD ALIGN="right" style="border-left:none">66</TD><TD style="border-right:none"><A HREF="#Zephaniah">Zephaniah</A></TD><TD ALIGN="right" style="border-left:none">3</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#I.Kings">I. Kings</A></TD><TD ALIGN="right" style="border-left:none">22</TD><TD style="border-right:none"><A HREF="#Jeremiah">Jeremiah</A></TD><TD ALIGN="right" style="border-left:none">52</TD><TD style="border-right:none"><A HREF="#Haggai">Haggai</A></TD><TD ALIGN="right" style="border-left:none">2</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#II.Kings">II. Kings</A></TD><TD ALIGN="right" style="border-left:none">25</TD><TD style="border-right:none"><A HREF="#Lamentations">Lamentations</A></TD><TD ALIGN="right" style="border-left:none">5</TD><TD style="border-right:none"><A HREF="#Zecheriah">Zecheriah</A></TD><TD ALIGN="right" style="border-left:none">14</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#I.Chronicles">I. Chronicles</A></TD><TD ALIGN="right" style="border-left:none">29</TD><TD style="border-right:none"><A HREF="#Ezekiel">Ezekiel</A></TD><TD ALIGN="right" style="border-left:none">48</TD><TD style="border-right:none"><A HREF="#Malachi">Malachi</A></TD><TD ALIGN="right" style="border-left:none">4</TD></TR>
-<TR><TD COLSPAN=6 ALIGN="center"><BR>
-<i>The Books of the New Testament.</i></TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Matthew">Matthew</A></TD><TD ALIGN="right" style="border-left:none">28</TD><TD style="border-right:none"><A HREF="#Ephesians">Ephesians</A></TD><TD ALIGN="right" style="border-left:none">6</TD><TD style="border-right:none"><A HREF="#Hebrews">Hebrews</A></TD><TD ALIGN="right" style="border-left:none">13</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Mark">Mark</A></TD><TD ALIGN="right" style="border-left:none">16</TD><TD style="border-right:none"><A HREF="#Philippians">Philippians</A></TD><TD ALIGN="right" style="border-left:none">4</TD><TD style="border-right:none"><A HREF="#James">James</A></TD><TD ALIGN="right" style="border-left:none">5</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Luke">Luke</A></TD><TD ALIGN="right" style="border-left:none">24</TD><TD style="border-right:none"><A HREF="#Colossians">Colossians</A></TD><TD ALIGN="right" style="border-left:none">4</TD><TD style="border-right:none"><A HREF="#I.Peter">I. Peter</A></TD><TD ALIGN="right" style="border-left:none">5</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#John">John</A></TD><TD ALIGN="right" style="border-left:none">21</TD><TD style="border-right:none"><A HREF="#I.Thessalonians">I. Thessalonians</A></TD><TD ALIGN="right" style="border-left:none">5</TD><TD style="border-right:none"><A HREF="#II.Peter">II. Peter</A></TD><TD ALIGN="right" style="border-left:none">3</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#TheActs">The Acts</A></TD><TD ALIGN="right" style="border-left:none">28</TD><TD style="border-right:none"><A HREF="#II.Thessalonians">II. Thessalonians</A></TD><TD ALIGN="right" style="border-left:none">3</TD><TD style="border-right:none"><A HREF="#I.John">I. John</A></TD><TD ALIGN="right" style="border-left:none">5</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Romans">Romans</A></TD><TD ALIGN="right" style="border-left:none">16</TD><TD style="border-right:none"><A HREF="#I.Timothy">I. Timothy</A></TD><TD ALIGN="right" style="border-left:none">6</TD><TD style="border-right:none"><A HREF="#II.John">II. John</A></TD><TD ALIGN="right" style="border-left:none">1</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#I.Corinthians">I. Corinthians</A></TD><TD ALIGN="right" style="border-left:none">16</TD><TD style="border-right:none"><A HREF="#II.Timothy">II. Timothy</A></TD><TD ALIGN="right" style="border-left:none">4</TD><TD style="border-right:none"><A HREF="#III.John">III. John</A></TD><TD ALIGN="right" style="border-left:none">1</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#II.Corinthians">II. Corinthians</A></TD><TD ALIGN="right" style="border-left:none">13</TD><TD style="border-right:none"><A HREF="#Titus">Titus</A></TD><TD ALIGN="right" style="border-left:none">3</TD><TD style="border-right:none"><A HREF="#Jude">Jude</A></TD><TD ALIGN="right" style="border-left:none">1</TD></TR>
-<TR><TD style="border-right:none"><A HREF="#Galatians">Galatians</A></TD><TD ALIGN="right" style="border-left:none">6</TD><TD style="border-right:none"><A HREF="#Philemon">Philemon</A></TD><TD ALIGN="right" style="border-left:none">1</TD><TD style="border-right:none"><A HREF="#Revelation">Revelation</A></TD><TD ALIGN="right" style="border-left:none">22</TD></TR>
-</TABLE>
 
-<h3 style="margin-top: 3em">PREFACE</h3>
 
-<p>This JUVENILE BIBLE, or TABLES OF THE HOLY SCRIPTURES, being a
+The
+NAMES AND ORDER
+OF ALL THE BOOKS OF THE
+OLD & NEW TESTAMENT,
+WITH THE
+NUMBER OF CHAPTERS.
+
+Genesis hath     50 | II. Chronicles . 36 | Daniel ......... 12
+Exodus ......... 40 | Ezra ........... 10 | Hosea .......... 14
+Leviticus ...... 27 | Nehemiah ....... 13 | Joel ...........  3
+Numbers ........ 36 | Esther ......... 10 | Amos ...........  9
+Deuteronomy .... 34 | Job ............ 42 | Obediah ........  1
+Joshua ......... 24 | Psalms ........ 150 | Jonah ..........  4
+Judges ......... 21 | Proverbs ....... 31 | Micah ..........  7
+Ruth ...........  4 | Ecclesiastes ... 12 | Nahum ..........  3
+I. Samuel ...... 31 | Solomon's Song    8 | Habakkuk .......  3
+II. Samuel ..... 24 | Isaiah ......... 66 | Zephaniah ......  3
+I. Kings ....... 22 | Jeremiah ....... 52 | Haggai .........  2
+II. Kings ...... 25 | Lamentations ...  5 | Zecheriah ...... 14
+I. Chronicles .. 29 | Ezekiel ........ 48 | Malachi ........  4
+
+_The Books of the New Testament._
+
+Matthew ........ 28 | Ephesians ......  6 | Hebrews ........ 13
+Mark ........... 16 | Philippians ....  4 | James ..........  5
+Luke ........... 24 | Colossians .....  4 | I. Peter .......  5
+John ........... 21 | I. Thessalonians  5 | II. Peter ......  3
+The Acts ....... 28 | II. Thessalonians 3 | I. John ........  5
+Romans ......... 16 | I. Timothy .....  6 | II. John .......  1
+I. Corinthians   16 | II. Timothy ....  4 | III. John ......  1
+II. Corinthians  13 | Titus ..........  3 | Jude ...........  1
+Galatians ......  6 | Philemon .......  1 | Revelation ..... 22
+
+
+
+PREFACE
+
+This JUVENILE BIBLE, or TABLES OF THE HOLY SCRIPTURES, being a
 Metrical Index to the Old and New Testament, has with much Labour been
 compiled for the Edification of Youth.  By means of this little
 Instructor, the reader is not only made acquainted with the chief
 Contents of every Chapter, but likewise with the number of chapters in
-every Book.  This methodical arrangement is as follows:</p>
+every Book.  This methodical arrangement is as follows:
 
-<p>Every Book <i>that exceeds five Chapters</i> is divided into Stanzas, each
-Stanza, acrostic-like, beginning with A, B, C, &amp;c. the Stanzas contain
+Every Book _that exceeds five Chapters_ is divided into Stanzas, each
+Stanza, acrostic-like, beginning with A, B, C, &c. the Stanzas contain
 four lines each, and every line is a Chapter (except otherwise
 distinguished, as the Chapters are numbered in the margin by figures);
 thus B, beginning the second Stanza and fifth line, is the fifth
-Chapter, C the 9th, D the 13th, E the 17th, &amp;c. as far as N, which is
+Chapter, C the 9th, D the 13th, E the 17th, &c. as far as N, which is
 the 49th Chapter, no Book containing more than 52, except the PROPHECY
 of ISAIAH, which runs four letters more, O, P, Q, and R; likewise the
 Book of PSALMS, being 150, which are divided into three alphabets, not
-exceeding N, and containing 50 each.  Those Books which <i>do not exceed
-five chapters</i>, viz. RUTH, LAMENTATIONS, JOEL, OBADIAH, &amp;c. are
+exceeding N, and containing 50 each.  Those Books which _do not exceed
+five chapters_, viz. RUTH, LAMENTATIONS, JOEL, OBADIAH, &c. are
 without this method, which do not require it, and are consequently
-expressed in one Stanza, sometimes exceeding four lines.</p>
+expressed in one Stanza, sometimes exceeding four lines.
 
-<p>In the historical books, the contents of every chapter is as fully
-expressed as the narrow limits of <i>one line</i> will admit; and the
+In the historical books, the contents of every chapter is as fully
+expressed as the narrow limits of _one line_ will admit; and the
 PSALMS, which have letters expressive of the occasions of them, are by
-<i>those</i> distinguished: but the other PSALMS, as also the PROVERBS,
-ECCLESIASTES, &amp;c. consisting of various and unconnected Sentences, and
+_those_ distinguished: but the other PSALMS, as also the PROVERBS,
+ECCLESIASTES, &c. consisting of various and unconnected Sentences, and
 not being reducible to any certain head, are only characterized by
-some remarkable passage in them.</p>
+some remarkable passage in them.
 
-<p>This novel and curious arrangement will, it is presumed, gratify the
+This novel and curious arrangement will, it is presumed, gratify the
 taste of young readers, and not only give them a relish for the Sacred
-Volume, but even assist their memories when duly acquainted with it.</p>
+Volume, but even assist their memories when duly acquainted with it.
 
-<p>Any person desirous of committing this JUVENILE BIBLE to memory (which
+Any person desirous of committing this JUVENILE BIBLE to memory (which
 may be done in a month, or less) should first learn perfectly the name
 of all the Books, and the numbers of the chapters in each Book, on the
 back of the title-page; then observe A stands for 1, B 5, C 9, D 13,
@@ -130,29 +129,29 @@ begins with that letter is known by it; for example, if you know the
 letter B stands for 5, then when you hear this line, "Before the flood
 man's life was long," you can soon tell it is the 5th chapter.  If it
 be asked, what are the contents of the 5th chapter of Genesis, you
-answer with the above line, and so of the rest.</p>
+answer with the above line, and so of the rest.
 
-<p>The three last lines of every Stanza depend upon the first line of it;
+The three last lines of every Stanza depend upon the first line of it;
 so that if the number of the first line is known, it is easy to know
 the number of the rest: for instance, if you know that "Each male of
 Abram circumcis'd" is the 17th of Genesis, then it follows "He angels
 entertains" is the 18th; "Sees Sodom's flame God's wrath proclaim" is
-the 19th; "His wife his sister feigns" is the 20th.</p>
+the 19th; "His wife his sister feigns" is the 20th.
 
-<p>This work is designed to promote the knowledge and practice of the
-Holy Scriptures—and when presents are made by Parents, or
+This work is designed to promote the knowledge and practice of the
+Holy Scriptures--and when presents are made by Parents, or
 promiscuously awarded by Schools, let the JUVENILE BIBLE be always the
-<i>first</i> gift: but no portion of it should ever be allotted as a
-<i>Task</i>; the Author of this Work being well convinced, it is owing to
-the modern and <i>impious</i> mode of Education, compelling Children to
-learn Collects, chapters in the Bible, Hymns, &amp;c. as occasional
-Exercises, and frequently <i>by way of Punishment</i>, that the Word of God
-is not heard and read with that satisfaction it always should be.</p>
+_first_ gift: but no portion of it should ever be allotted as a
+_Task_; the Author of this Work being well convinced, it is owing to
+the modern and _impious_ mode of Education, compelling Children to
+learn Collects, chapters in the Bible, Hymns, &c. as occasional
+Exercises, and frequently _by way of Punishment_, that the Word of God
+is not heard and read with that satisfaction it always should be.
 
-<hr>
-<h3><i><A NAME="Genesis">GENESIS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_GENESIS_
+
  1 All things created Moses writes,
  2     And Paradise displays,
  3   Tells Adam's fall, which ruin'd all:
@@ -163,7 +162,7 @@ is not heard and read with that satisfaction it always should be.</p>
  7   The world is drown'd, eight favour found,
  8     Out of the ark they came.
 
- 9 Covenant of rain-bow; Noah drunk&mdash;
+ 9 Covenant of rain-bow; Noah drunk--
 10     His family's increase;
 11   They Babel rear, confounded are.
 12     Abram is call'd in grace;
@@ -216,12 +215,12 @@ is not heard and read with that satisfaction it always should be.</p>
 49 Next blesseth all his sons and dies;
 50     To Canaan is convey'd:
           And thus in this book Genesis,
-            You fifty chapters read.</PRE>
+            You fifty chapters read.
 
-<hr>
-<h3><i><A NAME="Exodus">EXODUS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_EXODUS_
+
  1 All Hebrew males were to be drown'd.
  2     Moses born, sav'd in th' Ark;
  3   From bush on flame is told God's name,
@@ -255,7 +254,7 @@ is not heard and read with that satisfaction it always should be.</p>
 25 Gifts ask'd for tent, ark, mercy-seat,
 26     Boards, curtains, bars, and vail,
 27   Oil, altar, court, with hangings for't,
-28     Priests robes and pectoral [<A NAME="fn1" HREF="#fn1note">1</A>]
+28     Priests robes and pectoral [1]
 
 29 How priests must consecrated be,
 30     Anointed and perfum'd.
@@ -272,12 +271,12 @@ is not heard and read with that satisfaction it always should be.</p>
 39   Priests garments too doth Moses view,
 40     The tabernacle's rear'd.
 
-[<A NAME="fn1note" HREF="#fn1">1</A>] The breast-plate of judgment for the High-Priest</PRE>
+[1] The breast-plate of judgment for the High-Priest
 
-<hr>
-<h3><i><A NAME="Leviticus">LEVITICUS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_LEVITICUS_
+
  1 A Ritual of burnt-offerings,
  2     Meat-off'rings, ordinance;
  3   Off'rings of peace, and sacrifice,
@@ -311,12 +310,12 @@ is not heard and read with that satisfaction it always should be.</p>
 25 Great seventh-year-sabbath: jubilee,
 26     Blessings and curses given;
 27   Vows how esteemed, and how redeem'd.
-            Here chapters twenty-seven.</pre>
+            Here chapters twenty-seven.
 
-<hr>
-<h3><i><A NAME="Numbers">NUMBERS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_NUMBERS_
+
  1 All Israel number'd by their tribes,
  2     To each their place assign'd;
  3   Levites succeed in first-born stead,
@@ -324,7 +323,7 @@ is not heard and read with that satisfaction it always should be.</p>
 
  5 By what rules jealousy was try'd,
  6     The Naz'rites law is stated
- 7   Princes oblation at Dedication [<A NAME="fn2" HREF="#fn2note">2</A>].
+ 7   Princes oblation at Dedication [2].
  8     The Levites consecrated.
 
  9 Cloud guides them: passover renew'd,
@@ -338,7 +337,7 @@ is not heard and read with that satisfaction it always should be.</p>
 16     Korah's rebellious ways.
 
 17 End strife doth Aaron's budding rod,
-18     Priest's charge and salary; [<A NAME="fn3" HREF="#fn3note">3</A>]
+18     Priest's charge and salary; [3]
 19   Water with ashes the unclean washes,
 20     Miriam and Aaron die.
 
@@ -362,13 +361,13 @@ is not heard and read with that satisfaction it always should be.</p>
 35   Six refuge-towns and Levites bounds,
 36     Zelophehad's case decided.
 
-[<A NAME="fn2note" HREF="#fn2">2</A>] Of the Tabernacle.
-[<A NAME="fn3note" HREF="#fn3">3</A>] Their part or portion of all offerings, their wages, or dues.</pre>
+[2] Of the Tabernacle.
+[3] Their part or portion of all offerings, their wages, or dues.
 
-<hr>
-<h3><i><A NAME="Deuteronomy">DEUTERONOMY</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_DEUTERONOMY_
+
  1 Acts of the Hebrews Moses writes;
  2     How Sihon's kingdom fell;
  3   How Og was slain: Manasseh's gain.
@@ -413,18 +412,17 @@ is not heard and read with that satisfaction it always should be.</p>
 34     And dies in Nebo mount.
           Thus chapters four and thirty more.
             In Deuteronomy count.
-</pre>
 
-<hr>
-<h3><i><A NAME="Joshua">JOSHUA</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_JOSHUA_
+
  1 After meek Moses Joshua rules.
  2     Rahab doth spies receive.
  3   Jews walk dry shod thro' Jordan's flood,
  4     Memorial stones they leave.
 
- 5 Both [<A NAME="fn4" HREF="#fn4note">4</A>] seals renew'd; and Manna ceas'd.
+ 5 Both [4] seals renew'd; and Manna ceas'd.
  6     Jericho's walls o'erturn'd.
  7   Achan for theft of life bereft.
  8     Ai taken is and burn'd.
@@ -445,17 +443,17 @@ is not heard and read with that satisfaction it always should be.</p>
 20     With refuge-cities fix.
 
 21 Forty-eight cities Levi hath,
-22     [<A NAME="fn5" HREF="#fn5note">5</A>] Ed breeds a false surmise;
+22     [5] Ed breeds a false surmise;
 23   Joshua by threats, and promise treats,
 24     A cov'nant makes and dies.
 
-[<A NAME="fn4note" HREF="#fn4">4</A>] Circumcision and Passover.
-[<A NAME="fn5note" HREF="#fn5">5</A>] An altar call'd Ed, see v. 34</pre>
+[4] Circumcision and Passover.
+[5] An altar call'd Ed, see v. 34
 
-<hr>
-<h3><i><A NAME="Judges">JUDGES</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_JUDGES_
+
  1 Acts are rehears'd of divers tribes,
  2     Next age doth God provoke;
  3   Opprest they pray'd, God sends them aid,
@@ -480,21 +478,21 @@ is not heard and read with that satisfaction it always should be.</p>
 18     Stol'n by the men of Dan;
 19   A Levite's wife bereft of life.
 20     Most all the Benjamites are slain,
-21 And Wives for all the rest they gain.</pre>
+21 And Wives for all the rest they gain.
 
-<hr>
-<h3><i><A NAME="Ruth">RUTH</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_RUTH_
+
  1 Ruth's kindness unto Naomi
  2     She gleans on Boaz land;
  3   Her virtues move him her to love,
- 4     And wed her out of hand.</pre>
+ 4     And wed her out of hand.
 
-<hr>
-<h3><i><A NAME="I.Samuel">I. SAMUEL</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_I. SAMUEL_
+
  1 A Son by prayer Hannah obtains,
  2     How Eli's sons offend;
  3   Their doom God tells to Samuel,
@@ -505,7 +503,7 @@ is not heard and read with that satisfaction it always should be.</p>
  7   Jews mourn for sins, smite Philistines,
  8     The people ask a king.
 
- 9 Choice [<A NAME="fn6" HREF="#fn6note">6</A>] Saul seeks asses; finds a crown,
+ 9 Choice [6] Saul seeks asses; finds a crown,
 10     Doth prophesy when crown'd;
 11   With Nahash fights, kills Ammonites,
 12     Samuel for grace renown'd.
@@ -535,12 +533,12 @@ is not heard and read with that satisfaction it always should be.</p>
 31   Saul with his host and sons are lost,
             Here chapters thirty one.
 
-[<A NAME="fn6note" HREF="#fn6">6</A>] See ver. 2</pre>
+[6] See ver. 2
 
-<hr>
-<h3><i><A NAME="II.Samuel">II. SAMUEL</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_II. SAMUEL_
+
  1 A Poem David makes on Saul,
  2     Doth king in Judah reign;
  3   By treacheries stout Abner dies,
@@ -569,12 +567,12 @@ is not heard and read with that satisfaction it always should be.</p>
 21 For Gibeon's sake Saul's sons are hang'd,
 22     Kind David's psalm of praise;
 23   His dying song and warriors strong,
-24     A pestilence three days.</pre>
+24     A pestilence three days.
 
-<hr>
-<h3><i><A NAME="I.Kings">I. KINGS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_I. KINGS_
+
  1 Anointed is king Solomon,
  2     Performs his father's charge;
  3   Prays to be wise; two harlots tries,
@@ -597,7 +595,7 @@ is not heard and read with that satisfaction it always should be.</p>
 
 17 Elijah's fed, doth raise the dead,
 18     True God by fire declares;
-19   Flees to a cell [<A NAME="fn7" HREF="#fn7note">7</A>], from Jezebel,
+19   Flees to a cell [7], from Jezebel,
 20     Ahab Benhadad spares.
 
 21 For's vineyard Ahab Naboth stones,
@@ -605,12 +603,12 @@ is not heard and read with that satisfaction it always should be.</p>
           These chapters two and twenty shew,
             Of fifteen kings, five good.
 
-[<A NAME="fn7note" HREF="#fn7">7</A>] A cave in mount Horeb</pre>
+[7] A cave in mount Horeb
 
-<hr>
-<h3><i><A NAME="II.Kings">II. KINGS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_II. KINGS_
+
  1 A Fire from heaven Elijah brings,
  2     To heaven in fire ascends;
  3   Elisha brings drink for three kings,
@@ -640,12 +638,12 @@ is not heard and read with that satisfaction it always should be.</p>
 22     Josiah good, though only eight;
 23   The idols meet his angry stroke,
 24     The Jews are brought unto the yoke.
-25 Jerusalem laid desolate.</pre>
+25 Jerusalem laid desolate.
 
-<hr>
-<h3><i><A NAME="I.Chronicles">I. CHRONICLES</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_I. CHRONICLES_
+
  1 Adam's long line, to Edom's dukes,
  2     Israel's posterity;
  3   Good David's line, with kings doth shine,
@@ -680,12 +678,12 @@ is not heard and read with that satisfaction it always should be.</p>
 26     And porters lot sets down;
 27   Twelve captains ward as his life-guard,
 28     Give charge to Solomon,
-29     And yields up life and crown.</pre>
+29     And yields up life and crown.
 
-<hr>
-<h3><i><A NAME="II.Chronicles">II. CHRONICLES</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_II. CHRONICLES_
+
  1 As Solomon pray'd he wisdom had,
  2     Prepares things manifold;
  3   Temple's extents and ornaments,
@@ -729,12 +727,12 @@ is not heard and read with that satisfaction it always should be.</p>
 33 In chains Manasseh doth repent.
 34     Josiah's virtues shown.
 35   Keeps Passover: and dies in war.
-36     Jerusalem o'erthrown.</pre>
+36     Jerusalem o'erthrown.
 
-<hr>
-<h3><i><A NAME="Ezra">EZRA</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_EZRA_
+
  1 At Cyrus word the Jews return.
  2     The company that go.
  3   God's house begun with mirth and moan,
@@ -748,12 +746,12 @@ is not heard and read with that satisfaction it always should be.</p>
  9 Complains of strange affinities.
 10     And shows them what is right.
      These chapters ten, shew how great men
-       Shou'd in God's word delight.</pre>
+       Shou'd in God's word delight.
 
-<hr>
-<h3><i><A NAME="Nehemiah">NEHEMIAH</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_NEHEMIAH_
+
  1 Afflicted Nehemiah fasts.
  2     Goes to Jerusalem.
  3   The names of all who built the wall.
@@ -768,12 +766,12 @@ is not heard and read with that satisfaction it always should be.</p>
 10     They cov'nant; great and small.
 11   Jerusalem's in-dwellers names.
 12     They dedicate the wall,
-13     And mend disorders all.</pre>
+13     And mend disorders all.
 
-<hr>
-<h3><i><A NAME="Esther">ESTHER</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_ESTHER_
+
  1 After queen Vashti is dethron'd
  2     Commences Esther's reign.
  3   Proud Haman vows the death of Jews,
@@ -787,12 +785,12 @@ is not heard and read with that satisfaction it always should be.</p>
  9 Complete the Jews' deliverance,
 10     By Mordecai's success.
      These chapters ten, show pious men
-       The Lord will ever bless.</pre>
+       The Lord will ever bless.
 
-<hr>
-<h3><i><A NAME="Job">JOB</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_JOB_
+
  1 All wealth and children ta'en from Job,
  2     Sore boils too him perplex,
  3   Curses the morn that he was born;
@@ -847,12 +845,11 @@ is not heard and read with that satisfaction it always should be.</p>
      God's power doth relate;
 42   Job then submits: God him acquits,
      And doubles his estate.
-</pre>
 
-<hr>
-<h3><i><A NAME="Psalms">PSALMS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_PSALMS_
+
   1 A Blessed man doth David sing,
   2     Christ's kingdom prophesies;
   3   Flees from his son: to God doth run,
@@ -916,12 +913,9 @@ is not heard and read with that satisfaction it always should be.</p>
  49 No trust in wealth is to be put,
  50     Christ shall as judge appear;
       Now the first set of alphabet,
-        May fitly break off here.</pre>
+        May fitly break off here.
 
-<hr>
-<h4><i>The Second Alphabet</i></h4>
-
-<pre style="font-family:serif;">
+The Second Alphabet
  51 At Nathan's word David repents,
  52     Read Doeg's destiny,
  53   Proves athiests fools: God sees and rules;
@@ -985,12 +979,9 @@ is not heard and read with that satisfaction it always should be.</p>
  99 Next Moses, Aaron, Samuel,
 100     And all Lands joyful be;
       This second set of Alphabet,
-        Concludes the Century.</pre>
+        Concludes the Century.
 
-<hr>
-<h4><i>The Third Alphabet</i></h4>
-
-<pre style="font-family:serif;">
+The Third alphabet.
 101 A plan of houshold government,
 102     Afflicted person's prayer;
 103   A song of praise for joyful days,
@@ -1055,12 +1046,11 @@ is not heard and read with that satisfaction it always should be.</p>
      And nobles bind in chains;
 150   Whatever thing hath breath to sing,
      Praise God while breath remains.
-</pre>
 
-<hr>
-<h3><i><A NAME="Proverbs">PROVERBS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_PROVERBS_
+
  1      Address of Wisdom to the Young,
  2          Assurance of true bliss;
  3        The best of gain is in her train,
@@ -1099,12 +1089,12 @@ is not heard and read with that satisfaction it always should be.</p>
 29 v.1  He surely falls that hates reproof.
 30          Agur his sins doth own;
 31        The mother wife gives good advice,
-            To Lemuel her son.</pre>
+            To Lemuel her son.
 
-<hr>
-<h3><i><A NAME="Ecclesiastes">ECCLESIASTES</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_ECCLESIASTES_
+
 1       All's Vanity the preacher cries:
 2 v.12      There's nothing new that's done;
 3 v.46    A time to weep, to lose and keep.
@@ -1118,12 +1108,12 @@ is not heard and read with that satisfaction it always should be.</p>
 9 v.2   Come all things to all men alike.
 10 v.18     Buildings decay by sloth.
 11 v.1    Bread on streams cast is found at last,
-12 v.1      Remember God in Youth.</pre>
+12 v.1      Remember God in Youth.
 
-<hr>
-<h3><i><A NAME="SolomonsSong">SOLOMON'S SONG</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_SOLOMON'S SONG_
+
  1 Ardent the church's love to Christ,
  2     And Christ the church too loves.
  3   She tempted sought, and home him brought,
@@ -1132,12 +1122,12 @@ is not heard and read with that satisfaction it always should be.</p>
  5 Beauties of Christ the spouse describes,
  6     His love to her he shows;
  7   Again sets forth her beauty's worth,
- 8     Her love more ardent grows.</pre>
+ 8     Her love more ardent grows.
 
-<hr>
-<h3><i><A NAME="Isaiah">ISAIAH</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_ISAIAH_
+
  1 A sad complaint Isaiah makes,
  2     Christ's kingdom is foretold;
  3   The women's pride he doth deride,
@@ -1221,12 +1211,12 @@ is not heard and read with that satisfaction it always should be.</p>
 65 Rejected are the faithless Jews,
        And Gentiles called home.
 66   What comfort then for holy men,
-       To see their fulness come.</pre>
+       To see their fulness come.
 
-<hr>
-<h3><i><A NAME="Jeremiah">JEREMIAH</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_JEREMIAH_
+
  1 An almond rod Jeremy sees,
  2     God asks why Jews revolt.
  3   Israel turns whore, but Judah more,
@@ -1290,22 +1280,22 @@ is not heard and read with that satisfaction it always should be.</p>
 49 Next Ammon's, with five kingdoms more,
 50     And Babylon's at last.
 51   This book into Euphrates throw.
-52     Jerusalem laid waste.</pre>
+52     Jerusalem laid waste.
 
-<hr>
-<h3><i><A NAME="Lamentations">LAMENTATIONS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_LAMENTATIONS_
+
  1 Jerusalem's misery he laments,
  2     And doth to God complain;
  3   They hope express, and seek redress.
  4     Bewail sad state and stain.
- 5     Lament and pray again.</pre>
+ 5     Lament and pray again.
 
-<hr>
-<h3><i><A NAME="Ezekiel">EZEKIEL</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_EZEKIEL_
+
  1 A Vision strange Ezekiel sees,
  2     Tells his prophetic laws.
  3   The roll he eats; his charge repeats,
@@ -1364,12 +1354,12 @@ is not heard and read with that satisfaction it always should be.</p>
 45 Measures of sanctuary lands.
 46     Laws for the prince ordain'd.
 47   The waters glide from temple's side.
-48     Each tribe his land obtain'd.</pre>
+48     Each tribe his land obtain'd.
 
-<hr>
-<h3><i><A NAME="Daniel">DANIEL</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_DANIEL_
+
  1 All wise men Daniel doth excel.
  2     Tells what the king's dream was.
  3   The children three from fire set free.
@@ -1383,12 +1373,12 @@ is not heard and read with that satisfaction it always should be.</p>
  9 Confesseth sins; counts seventy weeks.
 10     Sees mighty kingdoms fall.
 11   Persia by Greece; by Romans these,
-12     Till Christ shall conquer all.</pre>
+12     Till Christ shall conquer all.
 
-<hr>
-<h3><i><A NAME="Hosea">HOSEA</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_HOSEA_
+
  1 A wife and children Hosea hath.
  2     He bids them all implore.
  3   A concubine weds for a sign.
@@ -1407,22 +1397,21 @@ is not heard and read with that satisfaction it always should be.</p>
 13 Destroy'd is Israel by himself.
      His help in God doth lie.
 14   Who will relent, if they repent
-     Of their Idolatry.</pre>
+     Of their Idolatry.
 
-<hr>
-<h3><i><A NAME="Joel">JOEL</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_JOEL_
+
  1 Joel describes a dismal dearth,
  2     Prescribes a solemn fast;
  3   Denounces woes 'gainst Zion's foes.
        Pronounces blessings last.
-</pre>
 
-<hr>
-<h3><i><A NAME="Amos">AMOS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_AMOS_
+
  1 Amos three sins and four reproves.
  2     God threatens many a coast.
  3   Chiefly his own, to him best known,
@@ -1432,31 +1421,30 @@ is not heard and read with that satisfaction it always should be.</p>
  6     Their wantonness abhorr'd.
  7   Amos prays twice for Jacob's rise,
  8     A famine of the word,
- 9     And David's tent restor'd.</pre>
+ 9     And David's tent restor'd.
 
-<hr>
-<h3><i><A NAME="Obediah">OBEDIAH</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_OBEDIAH_
+
  1 Good Obadiah, Edom's pride,
        And spite to Israel:
      What recompence for their offence,
        Shall them befal, doth tell.
-</pre>
 
-<hr>
-<h3><i><A NAME="Jonah">JONAH</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_JONAH_
+
  1 Jonah is swallowed by a fish,
  2     And then cast up again;
  3   Cries Nineveh destroy'd shall be.
- 4     Doth for his gourd complain.</pre>
+ 4     Doth for his gourd complain.
 
-<hr>
-<h3><i><A NAME="Micah">MICAH</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_MICAH_
+
  1 Anger for Idols Micah tells.
  2     For all those who oppress.
  3   Priests, prophets, prince, use violence.
@@ -1466,52 +1454,47 @@ is not heard and read with that satisfaction it always should be.</p>
  6     With Israel God contends.
  7   That good men fail the church doth wail.
        Herself to God commends.
-</pre>
 
-<hr>
-<h3><i><A NAME="Nahum">NAHUM</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_NAHUM_
+
  1 Nahum God's grace and wrath describes.
  2     His army in array.
  3   The chariots dance, and horses prance.
        Laid waste is Nineveh.
-</pre>
 
-<hr>
-<h3><i><A NAME="Habakkuk">HABAKKUK</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_HABAKKUK_
+
  1 Habakkuk tells Chaldean's rage.
  2     By faith he sees their fall.
  3   To God he pray'd was much dismay'd.
        Yet trusts in him for all.
-</pre>
 
-<hr>
-<h3><i><A NAME="Zephaniah">ZEPHANIAH</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_ZEPHANIAH_
+
  1 Sin ruins all things, Zephany cries.
  2     Five lands are singled out;
  3   Jerusalem must smart like them,
        Yet at the last shall shout.
-</pre>
 
-<hr>
-<h3><i><A NAME="Haggai">HAGGAI</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_HAGGAI_
+
  1 Haggai reproves the Jews' neglect,
        Inciteth them to build.
  2   This temple shall, tho' 'tis but small,
        With glory great be fill'd.
-</pre>
 
-<hr>
-<h3><i><A NAME="Zecheriah">ZECHERIAH</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_ZECHERIAH_
+
  1 A view of horses Zachary hath.
  2     A measuring line he sees.
  3   Satan resists Joshua the priest.
@@ -1531,24 +1514,24 @@ is not heard and read with that satisfaction it always should be.</p>
        All filth to wash away.
 14   On horses bells, and all vessels,
        Shall HOLINESS display.
-</pre>
 
-<hr>
-<h3><i><A NAME="Malachi">MALACHI</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_MALACHI_
+
  1 Of sins doth Malachi complain,
  2     Contempt of clergy shows.
  3   Before Messias shall come Elias,
- 4     Repentance to propose.</pre>
+ 4     Repentance to propose.
 
-<hr>
-<h2>THE NEW TESTAMENT.</h2>
 
-<hr>
-<h3><i><A NAME="Matthew">St. MATTHEW</A></i></h3>
 
-<pre style="font-family:serif;">
+* * * * *
+
+THE NEW TESTAMENT.
+
+_St. MATTHEW_
+
  1 A Gospel Matthew writes; Christ born
  2     Worshipp'd; to Egypt sent.
  3   Baptiz'd by John; declar'd God's Son,
@@ -1582,12 +1565,12 @@ is not heard and read with that satisfaction it always should be.</p>
 25 Great dooms-day: talents; Virgins ten.
 26     Christ is betray'd; doth sup:
 27   By Pilate try'd, and crucify'd.
-28     The third day raised up.</pre>
+28     The third day raised up.
 
-<hr>
-<h3><i><A NAME="Mark">St. MARK</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_St. MARK_
+
  1 A Gospel Mark writes: Christ's baptiz'd,
  2     Declares he's sabbath's Lord,
  3   Heals wither'd hand, doth devils command.
@@ -1606,12 +1589,12 @@ is not heard and read with that satisfaction it always should be.</p>
 13 Downfall of temple, and the world:
 14     By Judas he is fold.
 15   He's thrice deny'd and crucify'd,
-16     Then rises as foretold.</pre>
+16     Then rises as foretold.
 
-<hr>
-<h3><i><A NAME="Luke">St. LUKE</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_St. LUKE_
+
  1 A Gospel Luke writes: Christ's conceiv'd.
  2     His birth, praise for the same;
  3   His line describ'd by Joseph's side.
@@ -1640,14 +1623,14 @@ is not heard and read with that satisfaction it always should be.</p>
 21 For two small mites the widow prais'd.
 22     Christ's supper; Peter's fall.
 23   The thief with Christ in paradise.
-24     Christ risen: seen by all [<A NAME="fn8" HREF="#fn8note">8</A>].
+24     Christ risen: seen by all [8].
 
-[<A NAME="fn8note" HREF="#fn8">8</A>] The Apostles, &amp;c. See Ver. 33, &amp;c.</pre>
+[8] The Apostles, &c. See Ver. 33, &c.
 
-<hr>
-<h3><i><A NAME="John">St. JOHN</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_St. JOHN_
+
  1 Asserts St. John that Christ's the word:
  2     First miracle doth give:
  3   With Nicodemus speaks the Lord;
@@ -1672,12 +1655,12 @@ is not heard and read with that satisfaction it always should be.</p>
 18     By Peter thrice deny'd.
 19   Dying, calls John, his mother's son,
 20     To Thomas shew'd his side;
-21     Thrice Peter's love he try'd.</pre>
+21     Thrice Peter's love he try'd.
 
-<hr>
-<h3><i><A NAME="TheActs">THE ACTS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_THE ACTS_
+
  1 Acts of th' Apostles; Christ ta'en up,
  2     The Holy Ghost descends.
  3   At Peter's word the lame's restor'd,
@@ -1711,12 +1694,12 @@ is not heard and read with that satisfaction it always should be.</p>
 25 Goes before Festus, pleads, appeals,
 26     To king Agrippa preaches.
 27   Is shipwrekt, yet to land doth get.
-28     At Rome two years he teaches.</pre>
+28     At Rome two years he teaches.
 
-<hr>
-<h3><i><A NAME="Romans">ROMANS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_ROMANS_
+
  1 Against Greeks sins Paul writes to Rome,
  2     Jews sins are worse he saith.
  3   Both Greeks and Jews doth law accuse.
@@ -1735,12 +1718,12 @@ is not heard and read with that satisfaction it always should be.</p>
 13 Due tribute, custom, honour pay.
 14     Of various things he treats;
 15   The strong must seek to please the weak,
-16     And then his friends he greets.</pre>
+16     And then his friends he greets.
 
-<hr>
-<h3><i><A NAME="I.Corinthians">I. CORINTHIANS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_I. CORINTHIANS_
+
  1 At Corinth Paul found preaching power
  2     Above Man's wisdom priz'd
  3   'Tis Paul that plants: increase God grants.
@@ -1753,7 +1736,7 @@ is not heard and read with that satisfaction it always should be.</p>
 
  9 Claims maintenance for ministers,
 10     Shews sacraments of Jews,
-11   Then doth insist on the' [<A NAME="fn9" HREF="#fn9note">9</A>] Eucharist,
+11   Then doth insist on the' [9] Eucharist,
 12     Of gifts, and of their use.
 
 13 Describes the worth of charity,
@@ -1761,12 +1744,12 @@ is not heard and read with that satisfaction it always should be.</p>
 15   Then doth maintain fouls rise again.
 16     Collections regulates.
 
-[<A NAME="fn9note" HREF="#fn9">9</A>] The Lord's Supper.</pre>
+[9] The Lord's Supper.
 
-<hr>
-<h3><i><A NAME="II.Corinthians">II. CORINTHIANS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_II. CORINTHIANS_
+
  1 Again tells them his griefs and joys,
  2     How that salvation's found;
  3   How Christ reveal'd what was conceal'd.
@@ -1781,12 +1764,12 @@ is not heard and read with that satisfaction it always should be.</p>
 10     His presence they deride.
 11   These scoffings to self-boasting lead.
 12     He afterwards begins to chide,
-13     And threatens them beside.</pre>
+13     And threatens them beside.
 
-<hr>
-<h3><i><A NAME="Galatians">GALATIANS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_GALATIANS_
+
  1 Against Galatians Paul inveighs,
  2     And Peter doth reprove;
  3   Abraham he saith was sav'd by faith.
@@ -1796,12 +1779,11 @@ is not heard and read with that satisfaction it always should be.</p>
        Wherewith Christ made them free;
  6   And shews what made some men persuade
        Them circumcis'd to be.
-</pre>
 
-<hr>
-<h3><i><A NAME="Ephesians">EPHESIANS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_EPHESIANS_
+
  1 As God's elect Ephesians treats.
  2     And man's two states he sifts.
  3   The Gentiles call reveal'd to Paul,
@@ -1811,50 +1793,48 @@ is not heard and read with that satisfaction it always should be.</p>
        Duties to relatives.
  6   Of arms compleat from head to feet,
        A full description gives.
-</pre>
 
-<hr>
-<h3><i><A NAME="Philippians">PHILIPPIANS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_PHILIPPIANS_
+
  1 Paul to Philippians prais'd his bonds,
  2     Bids them Christ imitate;
  3   Counts all things loss for Christ and's cross
- 4     Content is with his state.</pre>
+ 4     Content is with his state.
 
-<hr>
-<h3><i><A NAME="Colossians">COLOSSIANS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_COLOSSIANS_
+
  1 Paul to Colossians Christ describes,
  2     Bids angel-worship wave;
  3   Exhorts to love the things above
- 4     Their earnest prayers doth crave.</pre>
+ 4     Their earnest prayers doth crave.
 
-<hr>
-<h3><i><A NAME="I.Thessalonians">I. THESSALONIANS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_I. THESSALONIANS_
+
  1 Paul's thanks for Thessalonians faith.
  2     He preach'd without deceit.
  3   To them his love doth clearly prove.
  4     Describes the judgment great,
- 5     And doth of duties treat.</pre>
+ 5     And doth of duties treat.
 
-<hr>
-<h3><i><A NAME="II.Thessalonians">II. THESSALONIANS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_II. THESSALONIANS_
+
  1 Again their faith and love commends.
  2     The Antichrist reveals.
  3   Bids them to flee ill company
        And then his letter seals.
-</pre>
 
-<hr>
-<h3><i><A NAME="I.Timothy">I. TIMOTHY</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_I. TIMOTHY_
+
  1 Assigns law's use to Timothy,
  2     To pray for kings directs;
  3   Bishops and deacons qualifications.
@@ -1864,41 +1844,38 @@ is not heard and read with that satisfaction it always should be.</p>
        And widows; and his health.
  6   What sins to shun; what must be done,
        By him and men of wealth.
-</pre>
 
-<hr>
-<h3><i><A NAME="II.Timothy">II. TIMOTHY</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_II. TIMOTHY_
+
  1 Bids Timothy stir up God's gift,
  2     And doth him courage teach;
  3   He prophesies apostasies,
- 4     And chargeth him to preach.</pre>
+ 4     And chargeth him to preach.
 
-<hr>
-<h3><i><A NAME="Titus">TITUS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_TITUS_
+
  1 Bishops to Titus Paul describes.
  2     Duties of young and old.
  3   What Titus ought to teach, what not,
        These chapters three unfold.
-</pre>
 
-<hr>
-<h3><i><A NAME="Philemon">PHILEMON</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_PHILEMON_
+
  1 Philemon's constant faith and love,
        Great joy to Paul doth give.
      Then with kind speech doth him beseech,
        Onesimus to receive.
-</pre>
 
-<hr>
-<h3><i><A NAME="Hebrews">HEBREWS</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_HEBREWS_
+
  1 Asserts St. Paul that Christ is God,
  2     Man's seed he took, and dy'd,
  3   As Moses's Lord must be ador'd.
@@ -1913,81 +1890,78 @@ is not heard and read with that satisfaction it always should be.</p>
 10     Was offer'd once for all;
 11   Paul next display'th the martyrs faith,
 12     To run Christ's race doth call,
-13     And to be kind withal.</pre>
+13     And to be kind withal.
 
-<hr>
-<h3><i><A NAME="James">JAMES</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_JAMES_
+
  1 James in temptation bids rejoice,
  2     And shew our faith by love;
  3   Describeth truly the tongue unruly.
  4     Shews lust contentions move,
- 5     And rich men doth reprove.</pre>
+ 5     And rich men doth reprove.
 
-<hr>
-<h3><i><A NAME="I.Peter">I. PETER</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_I. PETER_
+
  1 St. Peter urges godly ways,
  2     And on obedience writes;
  3   Bids wives be meek, and Sarah-like,
  4     And when Christ's patience he displays,
- 5     To vigilance excites.</pre>
+ 5     To vigilance excites.
 
-<hr>
-<h3><i><A NAME="II.Peter">II. PETER</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_II. PETER_
+
  1 Again bids make our calling sure,
  2     False teachers are foretold:
  3   How Christ shall come at day of doom,
- 4     As promis'd was of old.</pre>
+ 4     As promis'd was of old.
 
-<hr>
-<h3><i><A NAME="I.John">I. JOHN</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_I. JOHN_
+
  1 John shews us Christ is our ally,
  2     To young and old doth write.
  3   Our works must prove the truth of love,
  4     And bids us every spirit try:
- 5     Love makes God's laws seem light.</pre>
+ 5     Love makes God's laws seem light.
 
-<hr>
-<h3><i><A NAME="II.John">II. JOHN</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_II. JOHN_
+
  1 John writes t'a lady and exhorts
        Her and her children dear,
      Constant to prove in faith and love,
        Seducers to beware.
-</pre>
 
-<hr>
-<h3><i><A NAME="III.John">III. JOHN</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_III. JOHN_
+
  1 John writes to Gaius, and commends
        His charitable aim:
      But doth repress Diotrephes,
        Who strove to be supreme.
-</pre>
 
-<hr>
-<h3><i><A NAME="Jude">JUDE</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_JUDE_
+
  1 Jude bids for faith strive earnestly,
        Seducers lively paints;
      What judgments shall to them befal,
        What blessings to the saints.
-</pre>
 
-<hr>
-<h3><i><A NAME="Revelation">REVELATION</A></i></h3>
 
-<pre style="font-family:serif;">
+
+_REVELATION_
+
  1 A Vision Christ reveals to John,
  2     He writes to churches four.
  3   To other three then writeth he.
@@ -2016,16 +1990,16 @@ is not heard and read with that satisfaction it always should be.</p>
 21 Finally John sees all things new,
        Heav'n, earth, Jerusalem;
 22   Doth visions close, and curseth those,
-       That add or take from them.</pre>
+       That add or take from them.
 
-<hr>
-<h3><i>The TEN COMMANDMENTS.</i></h3>
 
-<i>These are the Laws which God did give,
-Keep them by Faith in Christ, and live.</i>
+
+_The TEN COMMANDMENTS._
+
+_These are the Laws which God did give,
+Keep them by Faith in Christ, and live._
 Exodus XX. 3. to 18.
 
-<pre style="font-family:serif;">
  1 Have thou no other Gods but me.
  2 Unto no Image bow thy knee.
  3 Take not the name of God in vain.
@@ -2035,15 +2009,15 @@ Exodus XX. 3. to 18.
  7 From whoredom keep thy body clean.
  8 Steal not, although thy state be mean.
  9 Bear not false witness, shun that blot.
-10 What is thy neighbour's covet not.</pre>
+10 What is thy neighbour's covet not.
 
-<h5><i>FINIS.</i></h5>
+_FINIS._
 
-<hr>
-<h3><i>An Hymn on the Holy Scriptures,</i></h3>
-<h4><i>By Dr. WATTS.</i></h4>
 
-<pre style="font-family:serif;">
+
+_An Hymn on the Holy Scriptures,_
+_By Dr. WATTS._
+
 Laden with guilt, and full of fears,
   I fly to thee my Lord,
 And not a glimpse of hope appears,
@@ -2072,13 +2046,13 @@ My guide to everlasting life,
 O may thy counsels, mighty God,
   My roving feet command,
 Nor I forsake the happy road,
-  That leads to thy right-hand.</pre>
+  That leads to thy right-hand.
 
-<hr>
-<h3><i>The UNIVERSAL PRAYER,</i></h3>
-<h4><i>By Mr. POPE.</i></h4>
 
-<pre style="font-family:serif;">
+
+_The UNIVERSAL PRAYER,_
+_By Mr. POPE._
+
 FATHER of All! in ev'ry Age,
   In ev'ry Clime ador'd,
 By Saint, by Savage, and by Sage,
@@ -2142,13 +2116,16 @@ Thou know'st if best bestow'd or not,
 To thee, whose Temple is all Space,
   Whose Altar, Earth, Sea, Skies!
 One Chorus let all Being raise!
-  All Nature's Incense rise!</pre>
+  All Nature's Incense rise!
 
-<h5>THE END.</h5>
+THE END.
 
-<hr>
-<p>Printed by M. Allen, Paternoster-Row.</p>
+Printed by M. Allen, Paternoster-Row.
 
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 52146 ***</div>
-</body>
-</html>
+
+
+
+
+End of the Project Gutenberg EBook of The Juvenile Bible, by Anonymous
+
+*** END OF THE PROJECT GUTENBERG EBOOK 52146 ***
